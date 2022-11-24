@@ -11,19 +11,19 @@
 header("Location: ./install");
 exit();
 // MySQL Hostname
-$sql_db_host = "localhost";
+$sql_db_host = "containers-us-west-69.railway.app";
 // MySQL Database User
-$sql_db_user = "";
+$sql_db_user = "root";
 // MySQL Database Password
-$sql_db_pass = "";
+$sql_db_pass = "GijYDYQs7269vHYjBKkV";
 // MySQL Database Name
-$sql_db_name = "";
+$sql_db_name = "railway";
 
 // Site URL
-$site_url = ""; // e.g (http://example.com)
+$site_url = "https://deepsound.furrysp.top"; // e.g (http://example.com)
 
 $developer_mode = 0;
 
 // Purchase code
-$purchase_code = ""; // Your purchase code, don't give it to anyone.
+$purchase_code = "8888"; // Your purchase code, don't give it to anyone.
 ?>
