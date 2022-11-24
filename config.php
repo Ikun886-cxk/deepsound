@@ -11,7 +11,7 @@
 header("Location: ./install");
 exit();
 // MySQL Hostname
-$sql_db_host = "containers-us-west-69.railway.app";
+$sql_db_host = "containers-us-west-69.railway.app:5809";
 // MySQL Database User
 $sql_db_user = "root";
 // MySQL Database Password
